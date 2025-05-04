@@ -1,6 +1,6 @@
 # 🔧 TP-Link TL-WR802N (V4) Firmware Upgrade Guide
 
-### This guide shows how to upgrade the firmware of the TP-Link TL-WR802N V4 router step by step, with visual assistance.
+### This guide shows how to upgrade the firmware of the TP-Link TL-WR802N V4 router step by step.
 
 ## **📥 Step 1: Download the Firmware**
 
