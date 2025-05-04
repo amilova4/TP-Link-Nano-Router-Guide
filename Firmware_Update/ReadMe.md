@@ -30,9 +30,7 @@ The password for TP-lINK Nano router is located on the sticker on your device (u
 
 1. Open your browser and enter:
 
-[http://192.168.0.1] or
-
-[http://tplinkwifi.net]
+[http://192.168.0.1] or [http://tplinkwifi.net]
 
 2. Choose your preferred language.
 
