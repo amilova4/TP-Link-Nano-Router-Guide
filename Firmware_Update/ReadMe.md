@@ -4,7 +4,7 @@
 
 ## **📥 Step 1: Download the Firmware**
 
-1. Go to the TP-Link TL-WR802N V4 Support Page [Link Text](https://www.tp-link.com/us/support/download/tl-wr802n/v4/)
+1. Go to the TP-Link TL-WR802N V4 Support Page [https://www.tp-link.com/us/support/download/tl-wr802n/v4/]
 2. Scroll down to the Firmware section.
 
 ![Firmware_Update](/images/V_4.png)
@@ -30,9 +30,9 @@ The password for TP-lINK Nano router is located on the sticker on your device (u
 
 1. Open your browser and enter:
 
-[Link Text](http://192.168.0.1) or
+[http://192.168.0.1] or
 
-[Link Text](http://tplinkwifi.net)
+[http://tplinkwifi.net]
 
 2. Choose your preferred language.
 
