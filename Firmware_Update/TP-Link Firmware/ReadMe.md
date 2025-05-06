@@ -1,11 +1,10 @@
 # 🔧 TP-Link TL-WR802N (V4) Firmware Upgrade Guide
 
-### This guide shows how to upgrade the firmware of the TP-Link TL-WR802N V4 router step by step, with visual assistance.
+### This guide shows how to upgrade the firmware of the TP-Link TL-WR802N V4 router step by step.
 
 ## **📥 Step 1: Download the Firmware**
 
-1. Go to the TP-Link TL-WR802N V4 Support Page.
-
+1. Go to the TP-Link TL-WR802N V4 Support Page [https://www.tp-link.com/us/support/download/tl-wr802n/v4/]
 2. Scroll down to the Firmware section.
 
 ![Firmware_Update](/images/V_4.png)
@@ -31,9 +30,7 @@ The password for TP-lINK Nano router is located on the sticker on your device (u
 
 1. Open your browser and enter:
 
-http://192.168.0.1 or
-
-http://tplinkwifi.net
+[http://192.168.0.1] or [http://tplinkwifi.net]
 
 2. Choose your preferred language.
 
